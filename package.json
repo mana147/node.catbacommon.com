@@ -1,0 +1,19 @@
+{
+  "name": "node.catbacommon.com",
+  "version": "1.0.0",
+  "description": "Project test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mana147/node.catbacommon.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mana147/node.catbacommon.com/issues"
+  },
+  "homepage": "https://github.com/mana147/node.catbacommon.com#readme"
+}
